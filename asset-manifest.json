@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cognizant-task-1/static/css/main.ac01462e.css",
+    "main.js": "/cognizant-task-1/static/js/main.af2219bc.js",
+    "static/js/453.06021a18.chunk.js": "/cognizant-task-1/static/js/453.06021a18.chunk.js",
+    "index.html": "/cognizant-task-1/index.html",
+    "main.ac01462e.css.map": "/cognizant-task-1/static/css/main.ac01462e.css.map",
+    "main.af2219bc.js.map": "/cognizant-task-1/static/js/main.af2219bc.js.map",
+    "453.06021a18.chunk.js.map": "/cognizant-task-1/static/js/453.06021a18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac01462e.css",
+    "static/js/main.af2219bc.js"
+  ]
+}
